@@ -146,7 +146,7 @@ switch (express OR value) {
     break;
 } */
 
-// Rock, Paper, Scissors
+/* // Rock, Paper, Scissors
 let playerOne = "scissors";
 let computer = "rock";
 
@@ -175,7 +175,7 @@ switch (playerOne) {
       console.log("playerOne wins!");
     }
     break;
-}
+} */
 
 /* let playerOne = String(prompt("Enter rock, paper or scissors"));
 let computer = "rock";
