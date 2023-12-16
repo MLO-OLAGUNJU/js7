@@ -207,8 +207,3 @@ switch (playerOne) {
     break;
 }
  */
-
-let hash = " # ";
-while (hash <= 10) {
-  console.log(hash);
-}
